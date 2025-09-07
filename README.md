@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_1280.png" width="100%" height="70" />
+  <img src="https://imgs.search.brave.com/Y4-6kYxcLZmj8IT4T-BNn7NxDxFZmmWFIwtCMV1jogA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZC5naXRodWIuY29t/L19uZXh0L3N0YXRp/Yy9tZWRpYS9sb2dv/LTA0LjlhMTUxN2Yw/LnBuZw" width="100%" height="200" />
 </p>
 
-<h1 align="center">Hi 👋</h1>
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 
