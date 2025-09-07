@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aditya Bhosale</h1>
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2013/07/12/12/58/github-146375_1280.png" alt="GitHub Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋</h1>
+
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://aditya-work.vercel.app/)  
