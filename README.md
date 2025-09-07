@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" alt="banner" width="100%">
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=40" alt="banner" width="100%">
 
 # 👋 Hi, I'm Aditya Bhosale  
 
