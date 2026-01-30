@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgs.search.brave.com/Y4-6kYxcLZmj8IT4T-BNn7NxDxFZmmWFIwtCMV1jogA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZC5naXRodWIuY29t/L19uZXh0L3N0YXRp/Yy9tZWRpYS9sb2dv/LTA0LjlhMTUxN2Yw/LnBuZw" width="100%" height="200" />
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617758845406/UiIwIHLW2.png" width="100%" height="200" />
 </p>
 
 
